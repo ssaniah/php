@@ -1,3 +1,6 @@
+<!-- Kondisi adalah statemen yang akan diuji kebenaranya.
+Jika kondisi TRUE maka statement if yang akan dijalankan, 
+namun jika kondisinya FALSE maka statement else yang akan dijalankan.|saniah XI-rpl -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
